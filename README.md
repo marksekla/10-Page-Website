@@ -1,5 +1,5 @@
 # 10 Page Website
-Created a 10 Page Website with Text, Ordered and Unordered Lists, Tables, Redirectable Links, and Image Maps Included that have 3 Clickable Regions using HTML!
+Created a 10 Page Website with Text, Ordered and Unordered Lists, Tables, Redirectable Links, Internal and External Navigation System, and Image Maps Included that have 3 Clickable Regions using HTML!
 <br>
 <br>
 <b>My Website On Egypt<b>
