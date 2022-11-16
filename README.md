@@ -1,8 +1,11 @@
 # 10 Page Website
-Created a 10 Page Website with Text, Ordered and Unordered Lists, Tables, Redirectable Links, Internal and External Navigation System, and Image Maps Included that have 3 Clickable Regions using HTML!
+Created a 10 Page Website with Text, Ordered and Unordered Lists, Tables, Redirectable Links, Internal and External Navigation System Between Web Pages, and Image Maps Included that have 3 Clickable Regions using HTML!
 <br>
 <br>
-<b>My Website On Egypt<b>
+<b>Go to my Website and Click on Index.html to get Started: https://electron.cs.uwindsor.ca/~seklam/<b>
+<br>
+<br>
+<b>My Website About Egypt<b>
 <br>
 <br>
 ![EgyptSS](https://user-images.githubusercontent.com/117547583/201837540-ef904812-30c8-44b6-9048-525f72facee3.png)
